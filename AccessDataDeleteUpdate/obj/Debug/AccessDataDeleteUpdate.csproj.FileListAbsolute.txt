@@ -1,0 +1,10 @@
+C:\Users\Eren\source\repos\AccessDataDeleteUpdate\AccessDataDeleteUpdate\bin\Debug\AccessDataDeleteUpdate.exe.config
+C:\Users\Eren\source\repos\AccessDataDeleteUpdate\AccessDataDeleteUpdate\bin\Debug\AccessDataDeleteUpdate.exe
+C:\Users\Eren\source\repos\AccessDataDeleteUpdate\AccessDataDeleteUpdate\bin\Debug\AccessDataDeleteUpdate.pdb
+C:\Users\Eren\source\repos\AccessDataDeleteUpdate\AccessDataDeleteUpdate\obj\Debug\AccessDataDeleteUpdate.csprojAssemblyReference.cache
+C:\Users\Eren\source\repos\AccessDataDeleteUpdate\AccessDataDeleteUpdate\obj\Debug\AccessDataDeleteUpdate.Form1.resources
+C:\Users\Eren\source\repos\AccessDataDeleteUpdate\AccessDataDeleteUpdate\obj\Debug\AccessDataDeleteUpdate.Properties.Resources.resources
+C:\Users\Eren\source\repos\AccessDataDeleteUpdate\AccessDataDeleteUpdate\obj\Debug\AccessDataDeleteUpdate.csproj.GenerateResource.cache
+C:\Users\Eren\source\repos\AccessDataDeleteUpdate\AccessDataDeleteUpdate\obj\Debug\AccessDataDeleteUpdate.csproj.CoreCompileInputs.cache
+C:\Users\Eren\source\repos\AccessDataDeleteUpdate\AccessDataDeleteUpdate\obj\Debug\AccessDataDeleteUpdate.exe
+C:\Users\Eren\source\repos\AccessDataDeleteUpdate\AccessDataDeleteUpdate\obj\Debug\AccessDataDeleteUpdate.pdb
